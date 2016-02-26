@@ -196,8 +196,9 @@ static NSString *const mineHomeCellIdentifier = @"mineHomeCellIdentifier";
         NSLog(@"timeOut:%@", error);
     }];
     
-    //更新文件信息
     
+    if (true) NSLog(@"哈哈哈");
+
     
     //-------------------------------------------------------------------------------------------------------------------------//
     // 1.创建信号
