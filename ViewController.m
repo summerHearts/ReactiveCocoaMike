@@ -197,6 +197,8 @@ static NSString *const mineHomeCellIdentifier = @"mineHomeCellIdentifier";
     }];
     
     //更新文件信息
+    
+    
     //-------------------------------------------------------------------------------------------------------------------------//
     // 1.创建信号
     RACSignal *siganl = [RACSignal createSignal:^RACDisposable *(id<RACSubscriber> subscriber) {
